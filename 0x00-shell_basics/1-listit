@@ -1,2 +1,3 @@
-#!/bin/dash
-ls -1
+#!/bin/bash
+ls -l
+
